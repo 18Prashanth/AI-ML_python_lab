@@ -15,3 +15,5 @@ on the quality of clustering. You can add Java/Python ML library classes/API in 
 both correct and wrong predictions. Java/Python ML library classes can be used for this problem. 
 **program_7:** Implement the non-parametric Locally Weighted Regressionalgorithm in order to fit data points. 
 Select appropriate data set for your experiment and draw graphs
+**program_8:** Implement A* Search algorithm. 
+**program_9:** Implement AO* Search algorithm. 
